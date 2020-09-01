@@ -1,4 +1,5 @@
-## 2020 Fall USC DSCI 510 (Principles of Programming for Data Science) Homeworks & Labs Respority
+## 2020 Fall USC DSCI 510
+###(Principles of Programming for Data Science) Homeworks & Labs Respority
 
 #### Descrption
 Programming in Python for retrieving, searching and analyzing data from the Web. Learning to manipulate large data sets.
