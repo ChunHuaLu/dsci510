@@ -9,7 +9,7 @@ Coursework in University of Southern California. Implement Data Management techi
 
 |No.| Descrption |Homework Dir|Tags|Score|
 |---|------------------|-----------|----|-----|
-|1| lab1 & Python for Everybody chapter1-3|[Python](https://github.com/ChunHuaLu/dsci510/blob/master/dsci510-lab1/lab1.pdf) |`Python3`||
+|1| lab1 & Python for Everybody chapter1-3|[pdf](https://github.com/ChunHuaLu/dsci510/blob/master/dsci510-lab1/lab1.pdf) |`Python3`||
 
 
 ---
