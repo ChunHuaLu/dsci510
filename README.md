@@ -5,7 +5,7 @@
 Programming in Python for retrieving, searching and analyzing data from the Web. Learning to manipulate large data sets.
 
 #### Homworks
-Coursework in University of Southern California. Implement Data Management techiques with Python3.
+Coursework in University of Southern California. 
 
 |No.| Descrption |Homework Dir|Tags|Score|
 |---|------------------|-----------|----|-----|
